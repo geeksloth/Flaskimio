@@ -12,7 +12,7 @@ python3 -m pip install Pillow, Flask
 ```
 2. clone this repository to desire directory
 ```bash
-git clone https://github.com/nonsakhoo/flaskimio.git
+git clone https://github.com/geeksloth/flaskimio.git
 ```
 3. run the main script by
 ```python
