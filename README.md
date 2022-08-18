@@ -3,7 +3,7 @@ Flask based api for image uploading and display **WITHOUT** saving to storage.
 
 Below figure shows the image returned from **server's memory (RAM)**, NOT STORAGE (HDD). This can be used as a template for image processing, AI, edged computing systems.
 
-![Screenshot](static/uploaded.png)
+![Screenshot](static/returned.png)
 
 ## Prerequisite
 Pillow and Flask are required for this template. If not installed please install them via your package manager, e.g., pip, apt, etc:
